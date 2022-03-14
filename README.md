@@ -2,7 +2,7 @@
 Online courses enrollement app
 This is the console app with MySQL database
 
-This application in Uzbek language. Made in Uzbekistan.\n
+This application in Uzbek language. Made in Uzbekistan.
 O'zbek tilida.
 
 TALABLAR:
