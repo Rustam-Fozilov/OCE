@@ -1,11 +1,10 @@
 # OCE
-Online courses enrollement app
-This is the console app with MySQL database
+Online courses enrollement console app with MySQL database
 
 This application in Uzbek language. Made in Uzbekistan.
 O'zbek tilida.
 
-TALABLAR:
+REQUIREMENTS:
 
 1. JDK 17.0.2
 2. MySQL Workbench
